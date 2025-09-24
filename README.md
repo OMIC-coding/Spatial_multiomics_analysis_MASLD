@@ -1,5 +1,5 @@
 # Spatial_multiomics_analysis_MASLD
-This repository provides code to reproduce key results described in Li. et al. "Spatial resolved multi-omics of human metabolic dysfunction-associated steatotic liver disease".
+This repository provides code to reproduce key results described in Li. et al. "Spatially resolved multi-omics of human metabolic dysfunction-associated steatotic liver disease".
 
 # Human Masld Spatial Multiomics Atlas (HMSMA) portal
 The processed spatially resolved multi-omics datasets are fully accessible on the browsable web portal [HMSMA](https://db.genomics.cn/stomics/hmsma), providing a resource for data download, spatial visualization of gene and metabolite expression.
